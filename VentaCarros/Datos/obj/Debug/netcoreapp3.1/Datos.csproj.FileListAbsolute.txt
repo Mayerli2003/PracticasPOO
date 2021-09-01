@@ -1,0 +1,12 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\bin\Debug\netcoreapp3.1\Datos.deps.json
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Datos\obj\Debug\netcoreapp3.1\Datos.pdb

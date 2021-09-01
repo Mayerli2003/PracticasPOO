@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      },
+      "Negocios/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Entidades": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Negocios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Negocios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    },
+    "Negocios/1.0.0": {
+      "type": "project",
+      "path": "../Negocios/Negocios.csproj",
+      "msbuildProject": "../Negocios/Negocios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Entidades >= 1.0.0",
+      "Negocios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Monta\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
+      "projectName": "Vistas",
+      "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
+      "packagesPath": "C:\\Users\\Monta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Monta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj"
+            },
+            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj": {
+              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
