@@ -27,17 +27,38 @@ namespace Negocios
          
           
             }
-        }      
+    
+
+
+
+
+        }
+        public Productos venderProducto(Productos productos,  int cantidad)
+        {
+            if(cantidad > productos.Existencias)
+            {
+                Console.WriteLine(" ¡Lo sentimos ! No puede comprar más de "+ productos.Existencias + "carros");
+                return null;
+            }
+            else
+            {
+                productos = datos.venderProducto(productos, cantidad);
+                Console.WriteLine("Se vendieron " + cantidad + " carros de la marca " + productos.Marca + " modelo "+ productos.Modelo +"." +
+                   "\nTotal: $" + TotalVenta(productos.Precio, cantidad).ToString("00.00"));
+
+                return productos;
+                  
+            }
         
+    
+        }
+        public double TotalVenta(double precio, int cantidad)
+        {
+            double total;
+            total = precio * cantidad;
+
+            return total;
+        }
+
     }
-    
-    
-        
-
-        
-  
-
-    
-    
-
 }

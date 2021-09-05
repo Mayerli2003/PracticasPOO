@@ -10,7 +10,7 @@ namespace Vistas
         {
             Productos productos = new Productos();
             NegociosProductos negocios = new NegociosProductos();
-            Console.WriteLine("Hola bienvenido " +
+            Console.WriteLine("Hola bienvenido/a " +
                 "\n¿Qué carro desea comprar?" + 
                 "\n1-Chevrolet modelo Aveo." + 
                 "\n2-Chevrolet modelo Spark." + 
@@ -30,12 +30,28 @@ namespace Vistas
             } 
             else
             {
-                Console.WriteLine("los datos del carro que va a comprar: "+
+                Console.WriteLine("Los datos del carro que comprará: "+
                     "\nMarca: "+ productos.Marca +
                     "\nModelo: "+ productos.Modelo +
                     "\nColor: "+ productos.Color +
                     "\nExistencias: "+ productos.Existencias +
                     "\nPrecio: "+ productos.Precio );
+            }
+            
+            Console.WriteLine("¿Cuántos carros comprará?");
+            int cantidad = int.Parse(Console.ReadLine());
+
+            
+            Console.WriteLine("Va a comprar " + cantidad + " carros de la marca " + productos.Marca + " modelo " + productos.Modelo +".");
+
+
+
+            productos = negocios.venderProducto(productos, cantidad);
+
+            
+            if (productos != null)
+            {
+                Console.WriteLine("Ahora quedan " + productos.Existencias + " existencias de este producto.");
             }
         }
     }

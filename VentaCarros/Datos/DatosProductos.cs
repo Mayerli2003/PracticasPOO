@@ -81,5 +81,12 @@ namespace Datos
 
 
         }
+        public Productos venderProducto(Productos productos, int cantidad)
+        {
+            
+            productos.Existencias = (productos.Existencias-cantidad);
+
+            return productos;
+        }
     }
 }
