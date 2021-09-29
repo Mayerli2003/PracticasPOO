@@ -7,3 +7,12 @@ C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Entidades\obj\
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

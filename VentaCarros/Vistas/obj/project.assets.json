@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
       "projectName": "Vistas",
-      "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
+      "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Vistas\\Vistas.csproj",
       "packagesPath": "C:\\Users\\Monta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Vistas\\obj\\",
+      "outputPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Vistas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Monta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,11 +91,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Entidades\\Entidades.csproj"
             },
-            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj": {
-              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj"
+            "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj": {
+              "projectPath": "C:\\Users\\Monta\\OneDrive\\Documents\\GitHub\\Clases-generales\\PracticasPOO\\VentaCarros\\Negocios\\Negocios.csproj"
             }
           }
         }

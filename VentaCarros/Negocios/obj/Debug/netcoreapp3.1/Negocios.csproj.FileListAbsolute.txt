@@ -12,3 +12,17 @@ C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Negocios\obj\D
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CopyComplete
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.dll
 C:\Users\Monta\OneDrive\Documents\GitHub\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Negocios.deps.json
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Negocios.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Negocios.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Datos.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfoInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.AssemblyInfo.cs
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.csproj.CopyComplete
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.dll
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\VentaCarros\Negocios\obj\Debug\netcoreapp3.1\Negocios.pdb
