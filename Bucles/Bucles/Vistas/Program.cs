@@ -126,8 +126,8 @@ namespace Bucles
                     case 5:
                         Console.WriteLine("************ LISTA DE MAESTROS ************");
 
-                        //Este foreach nos recorre la lista
-                        // y nos muestra cada maestro
+                        //Este foreach  recorre la lista
+                        // y nos muestra todos los  maestros almacenados 
                         //Se le indica al foreach donde buscar 
                         foreach (E_Maestro item in Mlista)
                         {
