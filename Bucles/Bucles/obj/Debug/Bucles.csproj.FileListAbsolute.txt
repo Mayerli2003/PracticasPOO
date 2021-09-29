@@ -1,0 +1,7 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\bin\Debug\Bucles.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\bin\Debug\Bucles.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\bin\Debug\Bucles.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\obj\Debug\Bucles.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\obj\Debug\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\obj\Debug\Bucles.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\PracticasPOO\Bucles\Bucles\obj\Debug\Bucles.pdb
